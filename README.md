@@ -24,4 +24,10 @@ In the project directory, you can run:
 
 ## Demo Screenshots
 
+![Screenshot (201)](https://github.com/Yash8840/Chatbot/assets/97682697/d39e18be-e162-437c-ac21-921e5b61070b)
 
+![Screenshot (200)](https://github.com/Yash8840/Chatbot/assets/97682697/830d0212-ce5c-4985-952d-a244e1c278bd)
+
+![Screenshot (197)](https://github.com/Yash8840/Chatbot/assets/97682697/b3377d38-23b2-468d-bd8b-1342da70b6e6)
+
+![Screenshot (196)](https://github.com/Yash8840/Chatbot/assets/97682697/024a769e-bba4-4ff0-97db-0c8a672aecc4)
